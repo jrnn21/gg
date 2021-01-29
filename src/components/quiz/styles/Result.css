@@ -1,0 +1,17 @@
+.choices {
+  /* background-color: red; */
+  margin-top: -15px;
+  padding: 0 10px;
+  /* background-color: rgba(228, 166, 34, 0.603); */
+}
+.choices > .choices__option {
+  display: flex;
+  /* margin-top: 1px; */
+  align-items: center;
+}
+.choices > .choices__option:hover {
+  background-color: lightblue;
+}
+.choices > .choices__option > p {
+  margin-left: 15px;
+}

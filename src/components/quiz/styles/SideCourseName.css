@@ -1,0 +1,17 @@
+.sideCourseName {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.sideCourseName > .sideCourseName__option {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+.sideCourseName > .sideCourseName__option:hover {
+  background-color: lightblue;
+}
+.sideCourseName > .sideCourseName__option > h4 {
+  margin-left: 10px;
+}

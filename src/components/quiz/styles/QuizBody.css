@@ -1,0 +1,13 @@
+.quizBody h3 {
+  font-size: 30px;
+}
+.quizBody > .question {
+  /* background-color: chocolate; */
+  background-color: rgba(243, 240, 240, 0.336);
+  box-shadow: 1px 1px 1px 1px rgb(68, 35, 35);
+  border-radius: 5px;
+}
+.quizBody > .question > p {
+  font-size: 25px;
+  padding: 5px;
+}

@@ -1,0 +1,22 @@
+.quiz {
+    display: flex;
+    justify-content: space-around;
+    background: #ff0099; /* fallback for old browsers */
+    background: -webkit-linear-gradient(
+      to right,
+      #493240,
+      #ff0099
+    ); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(
+      to right,
+      #493240,
+      #ff0099
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  /* .body {
+    flex: 1;
+    width: 100%;
+    align-items: center;
+    padding: 20px;
+  } */
